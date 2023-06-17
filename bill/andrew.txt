@@ -1,0 +1,3 @@
+Item             Quantity
+electronics       5
+earphones        5
